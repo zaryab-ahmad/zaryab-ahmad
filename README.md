@@ -35,6 +35,6 @@ __I'm a Computer Science student in my 7th semester with a strong focus on Deep 
   __Creating engaging Python projects for my students__ <br>
   __Completing a 100-day fellowship program in AI/DL with Bytewise__  <br>
 📫 Let's Connect!
-Email: zaryabahmadkhan458@example.com
-GitHub: github.com/zaryabahmadkhan
+Email: zaryabahmadkhan458@example.com<br>
+GitHub: github.com/zaryabahmadkhan<br>
 LinkedIn: linkedin.com/in/zaryabahmadkhan
