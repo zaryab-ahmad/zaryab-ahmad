@@ -1,40 +1,54 @@
-## Hi there! 👋 I'm Zaryab Ahmad Khan
-### 🚀 About Me
-__I'm a Computer Science student in my 7th semester with a strong focus on Deep Learning, Machine Learning, and Software Engineering.__
-## I have hands-on experience in:
+# 👋 Hi there! I'm Zaryab Ahmad Khan  
 
-###   Data Science projects
-###   Python and Java programming
-###   Creating real-world applications using ML/DL models
-###   Database design and software development methodologies
-## 🌟 What I Do
-####   Teaching Python to students with an emphasis on practical projects
-####   Exploring AI solutions for healthcare and computer vision problems
-####   Working on projects related to image classification and video processing
-## 🔧 Tech Stack
-####   Programming Languages: 
-   __Python, Java__
-####   Libraries/Frameworks:
-  __TensorFlow, Keras, Numpy, Pandas, Flask, Tkinter__
-####   Tools:
-  __Jupyter Notebook, GitHub, Visual Studio Code__
-## 📚 Learning Goals
-#### I am continuously learning and diving deeper into:
+## 🚀 About Me  
+I'm a **Computer Science student in my 7th semester**, passionate about **Machine Learning, Deep Learning, and Computer Vision**. I specialize in **AI-powered solutions for image classification, object detection, and medical image segmentation**.  
 
-  __Advanced topics in Deep Learning (CNNs, RNNs, Transfer Learning)__ <br>
-  __GUI Development with Python using Tkinter__ <br>
-  __Deployment of AI models in real-world applications__ <br>
-## 🏆 Highlights
-  __AI-based classification project for retinal vessel images__ <br>
-  __Custom and transfer learning models for healthcare applications__ <br>
-  __Developed Flask APIs for model deployment__ <br>
-## 🎯 Current Focus
-#### I'm currently working on:
+## 🔥 What I Do  
+- 🖥️ **Computer Vision & Image Processing** (2D & 3D)  
+- 🏥 **Medical Image Segmentation & Classification**  
+- 🧠 **Deep Learning Model Training & Optimization**  
+- 📊 **Data Science & AI Research**  
+- 🏗 **Building & Deploying AI Models with Flask**  
+- 🏫 **Teaching Python & AI with Real-World Applications**  
 
-  __Enhancing my final-year project using advanced deep learning techniques__ <br>
-  __Creating engaging Python projects for my students__ <br>
-  __Completing a 100-day fellowship program in AI/DL with Bytewise__  <br>
-📫 Let's Connect!
-Email: zaryabahmadkhan458@example.com<br>
-GitHub: github.com/zaryabahmadkhan<br>
-LinkedIn: linkedin.com/in/zaryabahmadkhan
+## 🔧 Tech Stack  
+### 🚀 **Programming Languages:**  
+- **Python, Java, C++**  
+
+### 🖥 **Libraries & Frameworks:**  
+- **TensorFlow, Keras, PyTorch**  
+- **OpenCV, MONAI (Medical Imaging), Scikit-Learn**  
+- **Numpy, Pandas, Matplotlib, Seaborn**  
+- **Flask, Tkinter (GUI Development)**  
+
+### 🛠 **Tools & Platforms:**  
+- **Jupyter Notebook, Google Colab, GitHub, VS Code**  
+
+## 📚 Learning Goals  
+- 🔬 **Advanced Deep Learning Architectures** (CNNs, RNNs, GANs, Transformer Models)  
+- 🏥 **3D Image Segmentation & Processing** (NIfTI, DICOM datasets)  
+- 🎯 **Object Detection & Instance Segmentation** (YOLO, Mask R-CNN, Faster R-CNN)  
+- ☁ **Deploying AI models in cloud & edge environments**  
+
+## 🏆 AI & Research Projects  
+🔹 **Medical AI Research:** Classification models for **retinal vessel images**  
+🔹 **Deep Learning for Image Segmentation:** Implemented **UNet, 3D UNet, and MONAI-based models**  
+🔹 **Object Detection & Classification:** Worked with **YOLO, Faster R-CNN, and SSD**  
+🔹 **AI Model Deployment:** Built **Flask APIs** to serve trained models for **real-time image analysis**  
+
+## 🎯 Current Focus  
+🚀 **Enhancing my final-year project** with **advanced deep learning techniques**  
+📢 **Developing engaging Python projects** for AI & ML learners  
+📚 **Mastering 3D medical image segmentation & analysis**  
+💡 **Completing a 100-day AI/DL fellowship with Bytewise**  
+
+---
+
+## 📫 Connect with Me  
+📧 **Email:** zaryabahmadkhan458@gmail.com  
+🔗 **GitHub:** [github.com/zaryabahmadkhan](https://github.com/zaryabahmadkhan)  
+🔗 **LinkedIn:** [linkedin.com/in/zaryabahmadkhan](https://linkedin.com/in/zaryabahmadkhan)  
+
+---
+
+⭐ **If you find my projects useful, feel free to star this repository!**  
