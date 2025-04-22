@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Zaryab Ahmad Khan  
 
 ## 🚀 About Me  
-I'm a **Computer Science student in my 7th semester**, passionate about **Machine Learning, Deep Learning, and Computer Vision**. I specialize in **AI-powered solutions for image classification, object detection, and medical image segmentation**.  
+I'm a **Computer Science student (2021–2025)** passionate about **Machine Learning**, **Deep Learning**, **Computer Vision**, and **IoT**. I specialize in **AI-powered solutions** for **image classification**, **object detection**, **3D medical image processing**, and **segmentation**. I also **teach Python**, **Data Science**, and **IoT**, and am actively involved in **AI research**, with a paper under review and ongoing work in **healthcare imaging**.
+ 
 
 ## 🔥 What I Do  
 - 🖥️ **Computer Vision & Image Processing** (2D & 3D)  
