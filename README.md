@@ -1,92 +1,110 @@
-<div align="center">
-  <h1>🌟 About Me — ZARYAB AHMAD KHAN</h1>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Zaryab Ahmad Khan – AI | Python | Research</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #0d47a1;
+    }
+    a {
+      color: #0d47a1;
+      text-decoration: none;
+    }
+    .contact {
+      margin-bottom: 2rem;
+    }
+    .button-colab {
+      display: inline-block;
+      margin-top: 1rem;
+    }
+    .button-colab img {
+      height: 32px;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Researcher+%7C+Educator;GPU+Hustler+on+Colab;Working+on+3D+Medical+Segmentation+%26+DL;Let's+Build+AI+Together!" alt="Typing SVG" />
-</div>
+  <h1>Zaryab Ahmad Khan</h1>
 
-<br>
+  <div class="contact">
+    <p><strong>📍</strong> Peshawar, Pakistan</p>
+    <p><strong>📧</strong> <a href="mailto:zaryabahmadkhan458@gmail.com">zaryabahmadkhan458@gmail.com</a></p>
+    <p><strong>📞</strong> <a href="tel:+923317060056">+92 331 7060056</a></p>
+    <p><strong>🔗</strong> <a href="https://www.linkedin.com/in/zaryabahmadkhan/" target="_blank">LinkedIn Profile</a></p>
+  </div>
 
-```python
-                        ╔══════════════════════════════════════════════════════════════════════════════════╗
-                        ║                                                                                  ║
-                        ║                        🚀 Zaryab Ahmad Khan's Neural Network Terminal             ║
-                        ║                                                                                  ║
-                        ║     AI Engineer | Deep Learning | Medical Imaging | Educator | Researcher        ║
-                        ║          Passionate about building applied AI using Python & CV                  ║
-                        ║                                                                                  ║
-                        ║                   > System Status: Online | Learning | Building <                ║
-                        ╚══════════════════════════════════════════════════════════════════════════════════╝
+  <div class="section">
+    <h2>👨‍🎓 Education & Research</h2>
+    <p>BS Computer Science, Islamia College Peshawar (2021–2025)</p>
+    <p>Currently writing my <strong>second research paper</strong> and final-year thesis focused on <strong>3D medical image segmentation</strong>.</p>
+  </div>
 
-from dataclasses import dataclass
-from datetime import datetime
+  <div class="section">
+    <h2>👨‍🏫 Teaching</h2>
+    <p>I teach:</p>
+    <ul>
+      <li>Python (Basics for Beginners)</li>
+      <li>Applied Python for AI:
+        <ul>
+          <li>Basic Data Analysis</li>
+          <li>Data Science, SQL</li>
+          <li>Machine Learning, Deep Learning</li>
+          <li>Computer Vision, NLP and more</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 
-@dataclass
-class SystemSpecs:
-    processor: str
-    ram: str
-    gpu: str
-    dream_gpu: str = "NVIDIA RTX 4090 (Someday...)"
+  <div class="section">
+    <h2>🧠 Tools & Environments</h2>
+    <ul>
+      <li><strong>Google Colab</strong> (primary platform)</li>
+      <li><strong>Personal PC:</strong> RTX 3060 (12GB), i7 10th Gen, 32GB RAM</li>
+      <li>Dream setup: Latest RTX GPU for faster AI research</li>
+    </ul>
+  </div>
 
-class Zaryab:
-    def __init__(self):
-        self.name = "Zaryab Ahmad Khan"
-        self.birthdate = "2003-11-20"
-        self.location = "Peshawar, Pakistan"
-        self.contact = {
-            "email": "zaryabahmadkhan458@gmail.com",
-            "phone": "+923317060056",
-            "linkedin": "https://www.linkedin.com/in/zaryabahmadkhan/"
-        }
-        self.system = SystemSpecs(
-            processor="Intel i7 10th Gen",
-            ram="32 GB",
-            gpu="NVIDIA RTX 3060 (12GB)"
-        )
-        self.tools = ["Colab (T4)", "PyTorch", "TensorFlow", "Keras", "MONAI", "OpenCV"]
-        self.teaching = [
-            "📘 Python (Beginner to Intermediate)",
-            "📗 Applied Python for AI (Data Science, SQL, ML, DL, CV, NLP)"
-        ]
-        self.current_projects = [
-            "📚 Writing Thesis on 3D Medical Image Segmentation",
-            "🧠 Publishing 2nd Research Paper",
-            "🤖 Teaching AI to Beginners"
-        ]
+  <div class="section">
+    <h2>💻 Run My Python Project</h2>
+    <p>Open and run my demo code directly in Google Colab:</p>
+    <div class="button-colab">
+      <a href="https://colab.research.google.com/github/zaryabahmadkhan/your-repo/blob/main/your_notebook.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+      </a>
+    </div>
+  </div>
 
-    def ai_focus(self):
-        return {
-            "core_expertise": [
-                "3D Medical Image Segmentation",
-                "Computer Vision & Object Detection",
-                "Neural Network Development",
-                "Model Optimization & Deployment"
-            ],
-            "frameworks": [
-                "PyTorch", "TensorFlow", "Keras", "MONAI", "Flask", "FastAPI"
-            ]
-        }
+  <div class="section">
+    <h2>📄 Example Python Code</h2>
+    <pre><code>import numpy as np
+import matplotlib.pyplot as plt
 
-    def education(self):
-        return {
-            "university": "Islamia College Peshawar",
-            "status": "Final Year BSCS Student (2021–2025)",
-            "research_interest": [
-                "Medical AI", "3D Deep Learning", "Flap Attention", "Model Compression"
-            ]
-        }
+x = np.linspace(0, 10, 100)
+y = np.sin(x)
 
-    def __str__(self):
-        return f"""
-        ╔══════ Zaryab Ahmad Khan's Terminal Summary ══════╗
-        ║ 🎓 Student      : BSCS, Islamia College Peshawar      ║
-        ║ 🔬 Research     : Medical AI | Segmentation | DL       ║
-        ║ 👨‍🏫 Teaching     : Python | Applied AI | Data Science   ║
-        ║ 💻 System       : RTX 3060 (12GB) + Colab T4            ║
-        ║ 🎯 Focus        : AI Education + Model Training         ║
-        ╚════════════════════════════════════════════════════════╝
-        """
+plt.plot(x, y)
+plt.title("Simple Sine Wave")
+plt.show()</code></pre>
+  </div>
 
-z = Zaryab()
-print(z)
+</body>
+</html>
