@@ -1,110 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Zaryab Ahmad Khan – AI | Python | Research</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f5f5f5;
-      color: #333;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-    }
-    h1, h2 {
-      color: #0d47a1;
-    }
-    a {
-      color: #0d47a1;
-      text-decoration: none;
-    }
-    .contact {
-      margin-bottom: 2rem;
-    }
-    .button-colab {
-      display: inline-block;
-      margin-top: 1rem;
-    }
-    .button-colab img {
-      height: 32px;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-  </style>
-</head>
-<body>
+# 👨‍💻 ZARYAB AHMAD KHAN  
+**AI & DL Engineer | Computer Vision | 3D Medical Image Segmentation | AI Educator**
 
-  <h1>Zaryab Ahmad Khan</h1>
+📍 Peshawar, Pakistan  
+📧 zaryabahmadkhan458@gmail.com  
+📞 +92 331 7060056  
+🔗 [LinkedIn](https://www.linkedin.com/in/zaryabahmadkhan/)  
 
-  <div class="contact">
-    <p><strong>📍</strong> Peshawar, Pakistan</p>
-    <p><strong>📧</strong> <a href="mailto:zaryabahmadkhan458@gmail.com">zaryabahmadkhan458@gmail.com</a></p>
-    <p><strong>📞</strong> <a href="tel:+923317060056">+92 331 7060056</a></p>
-    <p><strong>🔗</strong> <a href="https://www.linkedin.com/in/zaryabahmadkhan/" target="_blank">LinkedIn Profile</a></p>
-  </div>
+---
 
-  <div class="section">
-    <h2>👨‍🎓 Education & Research</h2>
-    <p>BS Computer Science, Islamia College Peshawar (2021–2025)</p>
-    <p>Currently writing my <strong>second research paper</strong> and final-year thesis focused on <strong>3D medical image segmentation</strong>.</p>
-  </div>
+🚀 *Transforming raw data into AI-driven insights with Deep Learning & Computer Vision!*  
+I’m a Deep Learning and Computer Vision Engineer with hands-on expertise in 3D medical segmentation, object detection, image classification, and model deployment. My projects combine research and practical implementation, especially in medical imaging and real-time AI.
 
-  <div class="section">
-    <h2>👨‍🏫 Teaching</h2>
-    <p>I teach:</p>
-    <ul>
-      <li>Python (Basics for Beginners)</li>
-      <li>Applied Python for AI:
-        <ul>
-          <li>Basic Data Analysis</li>
-          <li>Data Science, SQL</li>
-          <li>Machine Learning, Deep Learning</li>
-          <li>Computer Vision, NLP and more</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
+---
 
-  <div class="section">
-    <h2>🧠 Tools & Environments</h2>
-    <ul>
-      <li><strong>Google Colab</strong> (primary platform)</li>
-      <li><strong>Personal PC:</strong> RTX 3060 (12GB), i7 10th Gen, 32GB RAM</li>
-      <li>Dream setup: Latest RTX GPU for faster AI research</li>
-    </ul>
-  </div>
+## 💡 Expertise & Tools
 
-  <div class="section">
-    <h2>💻 Run My Python Project</h2>
-    <p>Open and run my demo code directly in Google Colab:</p>
-    <div class="button-colab">
-      <a href="https://colab.research.google.com/github/zaryabahmadkhan/your-repo/blob/main/your_notebook.ipynb" target="_blank">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-      </a>
-    </div>
-  </div>
+- **Frameworks**: PyTorch, TensorFlow, Keras  
+- **Computer Vision**: OpenCV, YOLOv5, Faster R-CNN, Mask R-CNN  
+- **3D Medical Imaging**: MONAI, 3D U-Net, NIfTI, DICOM  
+- **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Model Deployment**: Flask, FastAPI, TensorFlow Serving  
+- **Hardware**: 💻 Colab (T4 GPU), 🖥️ RTX 3060 (12GB VRAM)  
+- **Dream Hardware**: RTX 4090 — aiming higher every day!
 
-  <div class="section">
-    <h2>📄 Example Python Code</h2>
-    <pre><code>import numpy as np
-import matplotlib.pyplot as plt
+---
 
-x = np.linspace(0, 10, 100)
-y = np.sin(x)
+## 📘 AI Teaching
 
-plt.plot(x, y)
-plt.title("Simple Sine Wave")
-plt.show()</code></pre>
-  </div>
+I teach Python from beginner to advanced levels, covering:
 
-</body>
-</html>
+- **Python Fundamentals**  
+- **Applied Python for AI**:  
+  - Data Analysis, Data Science, SQL  
+  - Machine Learning, Deep Learning  
+  - Computer Vision, NLP  
+  - Model Training & Evaluation
+
+---
+
+## 🧠 Research & Publications
+
+- 📄 Currently working on my **second research paper** and **thesis** in 3D medical image segmentation  
+- 🔬 Specialized in comparing segmentation strategies (e.g., Flap Attention vs. 2D slicing)
+
+---
+
+## 🎓 Education
+
+**BS in Computer Science**  
+*Islamia College University, Peshawar*  
+📅 2021 – 2025  
+
+---
+
+## 📜 Certification
+
+✅ [Convolutional Neural Networks – DeepLearning.AI (Coursera)](https://www.coursera.org/account/accomplishments/verify/272DA7O6PTJX)  
+> This course enhanced my expertise in CNNs for computer vision tasks like image classification, object detection, and neural style transfer. I worked with TensorFlow/Keras to build and train models and gained insight into architectures like ResNets and Inception.
+
+---
+
+## 📫 Let’s Connect!
+
+I’m passionate about building real-world AI solutions.  
+Open to collaborations, research, and freelance projects in:
+
+- 3D Medical Image Analysis  
+- Real-Time Computer Vision Systems  
+- AI-Powered Web Tools  
+- AI Teaching and Curriculum Development  
+
+💬 *Feel free to message me — let’s build something amazing together!*
