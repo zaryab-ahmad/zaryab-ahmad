@@ -1,21 +1,22 @@
 # 👨‍💻 Zaryab Ahmad Khan
-### **AI & Deep Learning Engineer | Computer Vision | 3D Medical Imaging**
+### **AI & Deep Learning Engineer | Computer Vision | GenAI Developer**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zaryabahmadkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zaryabahmadkhan458@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/zaryab-ahmad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/923317060056"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌟 About Me
-I am a **Deep Learning & Computer Vision Engineer** focused on pushing the boundaries of **3D Medical Image Segmentation** and real-time AI. Currently serving as a **Research Assistant & Lab Coordinator** at Islamia College University, I bridge the gap between academic research and production-ready AI tools.
+### 🌟 Professional Overview
+[cite_start]I am a **Deep Learning & Computer Vision Engineer** and current **Research Assistant & Lab Coordinator** at Islamia College University[cite: 16, 17]. [cite_start]My work focuses on bridging the gap between high-precision academic research and functional AI applications[cite: 19, 21].
 
-- 🔭 **Currently Working On**: My thesis & 2nd research paper on **3D Aortic Dissection Segmentation**.
-- 🧪 **Specialization**: Comparing Flap Attention mechanisms vs. 2D/3D U-Net slicing strategies.
-- 🎓 **Education**: B.Sc. in Computer Science (2021-2025) @ Islamia College University.
-- 🏫 **Teaching**: Mentoring the next generation of AI engineers in Python, CV, and ML.
+- [cite_start]🔬 **Current Research**: Developing a **3D W-Net architecture** with Flap Attention for **Type-B Aortic Dissection Segmentation**.
+- 🤖 **GenAI Focus**: Building advanced **LangChain Runnables** (LCEL) and automated code debugging tools.
+- [cite_start]🏫 **Mentorship**: Training junior students in Python and OpenCV at the Smart IT Lab[cite: 21].
+- [cite_start]🎓 **Education**: B.Sc. in Computer Science (GPA: 3.13/4.00), Islamia College University[cite: 4, 5].
 
 ---
 
@@ -24,10 +25,18 @@ I am a **Deep Learning & Computer Vision Engineer** focused on pushing the bound
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) |
-| **Computer Vision** | `OpenCV` `YOLOv5-v11` `Faster R-CNN` `Mask R-CNN` `MONAI` |
-| **Medical Imaging** | `NIfTI` `DICOM` `3D U-Net` `Segmentation` |
-| **Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) |
-| **Hardware** | `NVIDIA RTX 3060 (12GB)` |
+| **Computer Vision** | [cite_start]`OpenCV` `YOLO (v5-v11)` `Faster R-CNN` `MONAI` `U-Net` [cite: 33] |
+| **Generative AI** | `LangChain (LCEL)` `Groq API` `RunnableParallel` `Llama 3.1` |
+| **Medical AI** | [cite_start]`NIfTI` `DICOM` `3D Medical Image Segmentation` [cite: 13] |
+| **Hardware** | `RTX 3060 (12GB)` — Dreaming of an `RTX 4090`! |
+
+---
+
+### 🚀 Featured Project: AI Code Fixer (GenAI)
+**A self-correcting debugging tool built with LangChain Runnables.**
+- **Tech**: Python, LangChain, Groq (Llama 3.1), Streamlit.
+- **Function**: Uses `RunnableParallel` to simultaneously analyze errors, explain the root cause, and provide corrected code.
+- **Workflow**: Input (Broken Code + Error) → Parallel Analysis → Result (Fixed Code + Explanation).
 
 ---
 
@@ -39,25 +48,17 @@ I am a **Deep Learning & Computer Vision Engineer** focused on pushing the bound
 
 ---
 
-### 📘 AI Teaching & Curriculum
-I specialize in transforming beginners into developers through a structured roadmap:
-* **Level 1**: Python Fundamentals & SQL
-* **Level 2**: Applied Data Science (NumPy, Pandas, Matplotlib)
-* **Level 3**: Machine Learning & Deep Learning (Scikit-Learn, PyTorch)
-* **Level 4**: Advanced Computer Vision (Object Detection, 3D Segmentation)
+### 🧠 Publications & Research
+- [cite_start]**Benchmarking YOLO Variants for Thermal Image Object Detection**, *Multidisciplinary Surgical Research Annals*, 2025[cite: 30].
+- [cite_start]**Predicting Heart Diseases Using Ensemble Classifier with Explainable AI**, 2025[cite: 31].
+- [cite_start]**Dataset Expertise**: Custom creation and annotation for Medical, Thermal, and Satellite imagery[cite: 23, 25].
 
 ---
 
-### 🏆 Featured Certifications
-- **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/272DA7O6PTJX)** – *DeepLearning.AI*
-  - Expertise in ResNets, Inception models, and Neural Style Transfer.
-
----
-
-### 📫 Let's Build the Future Together
-- 🌍 Located in **Peshawar, Pakistan**
-- 💬 Ask me about **YOLO benchmarking**, **3D Medical AI**, or **LangChain Runnables**.
-- ⚡ **Fun Fact**: I am fueled by coffee and the dream of an **RTX 4090**!
+### 📫 Let's Connect!
+- [cite_start]📍 **Location**: Peshawar / Charsadda, Pakistan[cite: 2].
+- [cite_start]🗣️ **Languages**: English (IELTS B2), Urdu, Pashto[cite: 36, 39].
+- 💬 **Ask me about**: YOLO benchmarking, 3D Medical AI, or building custom AI chains!
 
 ---
 <p align="center">
