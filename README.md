@@ -1,73 +1,65 @@
-# 👨‍💻 ZARYAB AHMAD KHAN  
-**AI & DL Engineer | Computer Vision | 3D Medical Image Segmentation | AI Educator**
+# 👨‍💻 Zaryab Ahmad Khan
+### **AI & Deep Learning Engineer | Computer Vision | 3D Medical Imaging**
 
-📍 Peshawar, Pakistan  
-📧 zaryabahmadkhan458@gmail.com  
-📞 +92 331 7060056  
-🔗 [LinkedIn](https://www.linkedin.com/in/zaryabahmadkhan/)  
-
----
-
-🚀 *Transforming raw data into AI-driven insights with Deep Learning & Computer Vision!*  
-I’m a Deep Learning and Computer Vision Engineer with hands-on expertise in 3D medical segmentation, object detection, image classification, and model deployment. My projects combine research and practical implementation, especially in medical imaging and real-time AI.
+<p align="left">
+  <a href="https://www.linkedin.com/in/zaryabahmadkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:zaryabahmadkhan458@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/zaryab-ahmad"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💡 Expertise & Tools
+### 🌟 About Me
+I am a **Deep Learning & Computer Vision Engineer** focused on pushing the boundaries of **3D Medical Image Segmentation** and real-time AI. Currently serving as a **Research Assistant & Lab Coordinator** at Islamia College University, I bridge the gap between academic research and production-ready AI tools.
 
-- **Frameworks**: PyTorch, TensorFlow, Keras  
-- **Computer Vision**: OpenCV, YOLOv5, Faster R-CNN, Mask R-CNN  
-- **3D Medical Imaging**: MONAI, 3D U-Net, NIfTI, DICOM  
-- **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Model Deployment**: Flask, FastAPI, TensorFlow Serving  
-- **Hardware**: 💻 Colab (T4 GPU), 🖥️ RTX 3060 (12GB VRAM)  
-- **Dream Hardware**: RTX 4090 — aiming higher every day!
+- 🔭 **Currently Working On**: My thesis & 2nd research paper on **3D Aortic Dissection Segmentation**.
+- 🧪 **Specialization**: Comparing Flap Attention mechanisms vs. 2D/3D U-Net slicing strategies.
+- 🎓 **Education**: B.Sc. in Computer Science (2021-2025) @ Islamia College University.
+- 🏫 **Teaching**: Mentoring the next generation of AI engineers in Python, CV, and ML.
 
 ---
 
-## 📘 AI Teaching
+### 🛠️ Tech Stack & Tools
 
-I teach Python from beginner to advanced levels, covering:
-
-- **Python Fundamentals**  
-- **Applied Python for AI**:  
-  - Data Analysis, Data Science, SQL  
-  - Machine Learning, Deep Learning  
-  - Computer Vision, NLP  
-  - Model Training & Evaluation
-
----
-
-## 🧠 Research & Publications
-
-- 📄 Currently working on my **second research paper** and **thesis** in 3D medical image segmentation  
-- 🔬 Specialized in comparing segmentation strategies (e.g., Flap Attention vs. 2D slicing)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) |
+| **Computer Vision** | `OpenCV` `YOLOv5-v11` `Faster R-CNN` `Mask R-CNN` `MONAI` |
+| **Medical Imaging** | `NIfTI` `DICOM` `3D U-Net` `Segmentation` |
+| **Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) |
+| **Hardware** | `NVIDIA RTX 3060 (12GB)` |
 
 ---
 
-## 🎓 Education
-
-**BS in Computer Science**  
-*Islamia College University, Peshawar*  
-📅 2021 – 2025  
-
----
-
-## 📜 Certification
-
-✅ [Convolutional Neural Networks – DeepLearning.AI (Coursera)](https://www.coursera.org/account/accomplishments/verify/272DA7O6PTJX)  
-> This course enhanced my expertise in CNNs for computer vision tasks like image classification, object detection, and neural style transfer. I worked with TensorFlow/Keras to build and train models and gained insight into architectures like ResNets and Inception.
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaryab-ahmad&show_icons=true&theme=tokyonight" alt="Zaryab's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaryab-ahmad&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-## 📫 Let’s Connect!
+### 📘 AI Teaching & Curriculum
+I specialize in transforming beginners into developers through a structured roadmap:
+* **Level 1**: Python Fundamentals & SQL
+* **Level 2**: Applied Data Science (NumPy, Pandas, Matplotlib)
+* **Level 3**: Machine Learning & Deep Learning (Scikit-Learn, PyTorch)
+* **Level 4**: Advanced Computer Vision (Object Detection, 3D Segmentation)
 
-I’m passionate about building real-world AI solutions.  
-Open to collaborations, research, and freelance projects in:
+---
 
-- 3D Medical Image Analysis  
-- Real-Time Computer Vision Systems  
-- AI-Powered Web Tools  
-- AI Teaching and Curriculum Development  
+### 🏆 Featured Certifications
+- **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/272DA7O6PTJX)** – *DeepLearning.AI*
+  - Expertise in ResNets, Inception models, and Neural Style Transfer.
 
-💬 *Feel free to message me — let’s build something amazing together!*
+---
+
+### 📫 Let's Build the Future Together
+- 🌍 Located in **Peshawar, Pakistan**
+- 💬 Ask me about **YOLO benchmarking**, **3D Medical AI**, or **LangChain Runnables**.
+- ⚡ **Fun Fact**: I am fueled by coffee and the dream of an **RTX 4090**!
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaryab-ahmad&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
