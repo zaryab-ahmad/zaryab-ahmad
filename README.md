@@ -1,6 +1,6 @@
 # 👨‍💻 Zaryab Ahmad Khan
 ### **AI & Deep Learning Engineer | Computer Vision | GenAI Developer** 
-
+  
 <p align="left">
   <a href="https://www.linkedin.com/in/zaryabahmadkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:zaryabahmadkhan458@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
